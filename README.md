@@ -33,7 +33,7 @@ This project is organized into two distinct repositories:
 This initiative is the result of collaborative efforts by the following individuals:
 
 1. **Sagar Bangade**  
-   [GitHub](https://github.com/sagarbangade) | [LinkedIn](https://linkedin.com/in/sagar-bangade)
+   [GitHub](https://github.com/sagarbangade) | [LinkedIn](https://www.linkedin.com/in/sagar-bangade/)
 
 2. **Vinay Keshari**  
    [GitHub](https://github.com/contributor2) | [LinkedIn](https://linkedin.com/in/contributor2)

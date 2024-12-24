@@ -36,7 +36,7 @@ This initiative is the result of collaborative efforts by the following individu
    [GitHub](https://github.com/sagarbangade) | [LinkedIn](https://www.linkedin.com/in/sagar-bangade/)
 
 2. **Vinay Keshari**  
-   [GitHub](https://github.com/contributor2) | [LinkedIn](https://linkedin.com/in/contributor2)
+   [GitHub](https://github.com/vkeshari23/) | [LinkedIn](https://www.linkedin.com/in/vinay-keshari-301125240/)
 
 3. **Shrey Bhatt**  
    [GitHub](https://github.com/contributor3) | [LinkedIn](https://linkedin.com/in/contributor3)

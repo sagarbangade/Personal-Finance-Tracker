@@ -2,8 +2,7 @@
 
 Welcome to **MoneyMap**, an advanced platform for personal finance management, designed with a React-based frontend and a Node.js-powered backend. This system is meticulously crafted to facilitate efficient tracking and analysis of financial transactions, enabling users to optimize their income, expenditures, and savings with a seamless user experience. 🌟🌐💼
 
-## Demo
-Access the live application: [MoneyMap Demo](https://moneymap.skillsfoster.com/) 🎥🌍✨
+
 
 ---
 

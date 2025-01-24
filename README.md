@@ -44,7 +44,7 @@ This initiative is the result of collaborative efforts by the following individu
    [GitHub](https://github.com/AbhiNalawade09) | [LinkedIn](https://www.linkedin.com/in/abhishek-nalawade-4a919b199/)
 
 5. **Abhishek Kumar Singh**  
-   [GitHub](https://github.com/contributor5) | [LinkedIn](https://linkedin.com/in/contributor5) 🤝💡🌟
+   [GitHub](https://github.com/Abhishekk3535) | [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-singh-2874952a8) 🤝💡🌟
 
 ---
 
